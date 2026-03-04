@@ -2,6 +2,7 @@
 
 ## Overview
 This project explores personal information retrieval over an Obsidian-based knowledge base without relying on large pre-trained external models (e.g., GPT or BERT). It builds a custom, lightweight semantic space from the user’s own notes using classical statistical methods (co-occurrence matrix + PPMI + SVD). The objective is to capture user-specific associations within a personal corpus and provide interpretable retrospective retrieval.   
+<img width="950" height="1051" alt="image" src="https://github.com/user-attachments/assets/72f26d44-eeab-4f66-8153-4d5bdccdc3ef" />
 
 ## Data
 - **Corpus**: Personal Obsidian Markdown notes.
